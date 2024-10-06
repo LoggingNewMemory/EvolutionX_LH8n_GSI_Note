@@ -3,9 +3,9 @@
 # Evolution X GSI Note
 ## A Note By: Kanagawa Yamada
 
-Instruction: [HERE] (https://t.me/KanagawaLabAnnouncement/91)
-Note Version: 3.0
-Download:[HERE] (https://github.com/mytja/treble_evo/releases) (Use Pre-Release normal (not slim) ver)
+Instruction: [HERE] (https://t.me/KanagawaLabAnnouncement/91) <br />
+Note Version: 3.0 <br />
+Download:[HERE] (https://github.com/mytja/treble_evo/releases) (Use Pre-Release normal (not slim) ver) <br />
 
 - GApps included, all you have to do is extract the .img.xz
 - Non root
