@@ -39,15 +39,16 @@ How to upgrade to strong integrity (Thanks to : Blank's Integrity Guide)
 Note: Make sure you use [Magisk Alpha](https://github.com/CoderTyn/Magisk-Alpha) or [KernelSU](https://github.com/tiann/KernelSU) <br />
 KERNELSU IS RECOMMENDED 
 
-1. Delete /data/adb/tricky_store/ if exist
-2. Completely remove all your root solution module (Eq: Bootloader Spoofer or something else)
-3. Install Zygisk Next, Shamiko, Sensitive Props, LSPosed Mod, Tricky Store, Play Integrity Fix (You can get all of them in Release Page)
-4. Reboot
-5. Open LSPosed Manager
-6. Enable "Disable Verbose Logs"
-7. Disable "Enable Watchdog Logs"
-8. Install HMA
-9. Import HMA Config
+1. disable "Play Integrity Fix" on setting, and then reboot
+2. Delete /data/adb/tricky_store/ if exist
+3. Completely remove all your root solution module (Eq: Bootloader Spoofer or something else)
+4. Install Zygisk Next, Shamiko, Sensitive Props, LSPosed Mod, Tricky Store, Play Integrity Fix (You can get all of them in Release Page)
+5. Reboot
+6. Open LSPosed Manager
+7. Enable "Disable Verbose Logs"
+8. Disable "Enable Watchdog Logs"
+9. Install HMA
+10. Import HMA Config
 
 How to hide root?
 
