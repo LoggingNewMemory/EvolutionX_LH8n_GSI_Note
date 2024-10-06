@@ -3,21 +3,21 @@
 # Evolution X GSI Note
 ## A Note By: Kanagawa Yamada
 
-Instruction: [HERE] (https://t.me/KanagawaLabAnnouncement/91) <br />
+Instruction: [HERE](https://t.me/KanagawaLabAnnouncement/91) <br />
 Note Version: 3.0 <br />
-Download:[HERE] (https://github.com/mytja/treble_evo/releases) (Use Pre-Release normal (not slim) ver) <br />
+Download:[HERE](https://github.com/mytja/treble_evo/releases) (Use Pre-Release normal (not slim) ver) <br />
 
 - GApps included, all you have to do is extract the .img.xz
 - Non root
 - Integrity can be upgarded to strong integrity
 
 Req Module:
-- [Shamiko] (https://github.com/LSPosed/LSPosed.github.io/releases)
-- [Zygisk Next] (https://github.com/Dr-TSNG/ZygiskNext)
-- [Brightness Fix] (https://t.me/KanagawaLabAnnouncement/83)
-- [LSPosed Mod] (https://github.com/mywalkb/LSPosed_mod/releases) (Download the Zygisk Ver)
-- [Original Camera] (https://t.me/KanagawaLabAnnouncement/80)
-- [100% Battery Autocut] (https://t.me/KanagawaLabAnnouncement/74)
+- [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)
+- [Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext)
+- [Brightness Fix](https://t.me/KanagawaLabAnnouncement/83)
+- [LSPosed Mod](https://github.com/mywalkb/LSPosed_mod/releases) (Download the Zygisk Ver)
+- [Original Camera](https://t.me/KanagawaLabAnnouncement/80)
+- [100% Battery Autocut](https://t.me/KanagawaLabAnnouncement/74)
 
 What work:
 - Wifi
@@ -36,12 +36,12 @@ What work:
 
 How to upgrade to strong integrity (Thanks to : Blank's Integrity Guide)
 
-Note: Make sure you use (Magisk Alpha) [https://github.com/CoderTyn/Magisk-Alpha] or (KernelSU) [https://github.com/tiann/KernelSU] <br />
+Note: Make sure you use [Magisk Alpha](https://github.com/CoderTyn/Magisk-Alpha) or [KernelSU](https://github.com/tiann/KernelSU) <br />
 KERNELSU IS RECOMMENDED 
 
 1. Delete /data/adb/tricky_store/ if exist
 2. Completely remove all your root solution module (Eq: Bootloader Spoofer or something else)
-3. Install Zygisk Next, Shamiko, Sensitive Props, LSPosed Mod, Tricky Store, Play Integrity Fix
+3. Install Zygisk Next, Shamiko, Sensitive Props, LSPosed Mod, Tricky Store, Play Integrity Fix (You can get all of them in Release Page)
 4. Reboot
 5. Open LSPosed Manager
 6. Enable "Disable Verbose Logs"
