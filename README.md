@@ -5,7 +5,7 @@
 
 Instruction: [HERE](https://t.me/KanagawaLabAnnouncement/91) <br />
 Note Version: 3.0 <br />
-Download: [HERE](https://github.com/mytja/treble_evo/releases) (Use Pre-Release normal (not slim) ver) <br />
+Download: [HERE](https://github.com/mytja/treble_evo/releases) (Use normal (not slim) ver) <br />
 
 - GApps included, all you have to do is extract the .img.xz
 - Non root
