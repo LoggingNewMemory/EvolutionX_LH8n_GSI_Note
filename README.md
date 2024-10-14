@@ -17,7 +17,7 @@ Req Module:
 - [Brightness Fix](https://t.me/KanagawaLabAnnouncement/83)
 - [LSPosed Mod](https://github.com/mywalkb/LSPosed_mod/releases) (Download the Zygisk Ver)
 - [Original Camera](https://t.me/KanagawaLabAnnouncement/80)
-- [100% Battery Autocut](https://t.me/KanagawaLabAnnouncement/74)
+- [100% Battery Autocut](https://github.com/LoggingNewMemory/Autocut-Charging-MYTH)
 
 What work:
 - Wifi
