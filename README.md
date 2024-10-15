@@ -39,7 +39,7 @@ KERNELSU IS RECOMMENDED
 1. disable "Play Integrity Fix" on setting, and then reboot
 2. Delete /data/adb/tricky_store/ if exist
 3. Completely remove all your root solution module (Eq: Bootloader Spoofer or something else)
-4. Install Zygisk Next, Shamiko, Sensitive Props, LSPosed Mod, Tricky Store, Play Integrity Fix (You can get all of them in Release Page) (And install it in order)
+4. Install Zygisk Next, Shamiko, Sensitive Props, LSPosed Mod, Tricky Store, Play Integrity Fix (You can get all of them in Release Page) (Install it in order, reboot every installation)
 5. Reboot
 6. Open LSPosed Manager
 7. Enable "Disable Verbose Logs"
