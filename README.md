@@ -9,7 +9,7 @@ Download: [HERE](https://github.com/mytja/treble_evo/releases) (Use normal (not 
 
 - GApps included, all you have to do is extract the .img.xz
 - Non root
-- Integrity can be upgarded to strong integrity
+- ~~Integrity can be upgarded to strong integrity~~ (Actually I doubt it still work)
 
 Req Module:
 - [Brightness Fix](https://t.me/KanagawaLabAnnouncement/83)
