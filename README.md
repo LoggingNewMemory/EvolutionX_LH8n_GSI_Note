@@ -58,7 +58,7 @@ KernelSU:
 5. Press back arrow to save it
 
 Known Issue
-- ~~Quick Share crashes the entire system~~ 
+- Quick Share crashes the entire system
 - Sometimes, if you go to pph terble settings -> misc features the system crashed and send you to fastboot. Just hold power button and reboot, you will be fine
 - WZM Crashed
 - There is no way to bring backlight effect here
