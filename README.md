@@ -50,7 +50,7 @@ KERNELSU IS RECOMMENDED
 7. Open LSPosed Manager
 8. Enable "Disable Verbose Logs"
 9. Disable "Enable Watchdog Logs"
-10. Install HMA
+10. Install HMA (Provided on Release Page)
 11. Import HMA Config
 
 How to hide root?
