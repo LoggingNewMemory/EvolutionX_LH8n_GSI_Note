@@ -39,13 +39,19 @@ KERNELSU IS RECOMMENDED
 1. disable "Play Integrity Fix" on setting, and then reboot
 2. Delete /data/adb/tricky_store/ if exist
 3. Completely remove all your root solution module (Eq: Bootloader Spoofer or something else)
-4. Install Zygisk Next, Shamiko, Sensitive Props, LSPosed Mod, Tricky Store, Play Integrity Fix (You can get all of them in Release Page) (Install it in order, reboot every installation)
-5. Reboot
-6. Open LSPosed Manager
-7. Enable "Disable Verbose Logs"
-8. Disable "Enable Watchdog Logs"
-9. Install HMA
-10. Import HMA Config
+4. Install:
+   - [Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext/releases)
+   - [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)
+   - [Sensitive Props](https://github.com/Magisk-Modules-Alt-Repo/sensitive_props/releases)
+   - [LSPosed Mod](https://github.com/mywalkb/LSPosed_mod/releases)
+   - [Tricky Store](https://github.com/5ec1cff/TrickyStore/releases)
+   - [Play Integrity Fix](https://github.com/chiteroman/PlayIntegrityFix/releases)
+6. Reboot
+7. Open LSPosed Manager
+8. Enable "Disable Verbose Logs"
+9. Disable "Enable Watchdog Logs"
+10. Install HMA
+11. Import HMA Config
 
 How to hide root?
 
