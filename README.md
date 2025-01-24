@@ -3,8 +3,7 @@
 Tested on Device: Tecno Pova 5 Pro (LH8n) <br />
 Note By: Kanagawa Yamada <br />
 
-Instruction: [HERE](https://t.me/KanagawaLabAnnouncement/91) <br />
-Note Version: 3.0 <br />
+Instruction to Install: [HERE](https://t.me/KanagawaLabAnnouncement/91) <br />
 Download: [HERE](https://github.com/mytja/treble_evo/releases) (This note use Normal version) <br />
 
 - GApps included, all you have to do is extract the .img.xz
