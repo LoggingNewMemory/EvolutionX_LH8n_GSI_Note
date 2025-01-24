@@ -2,6 +2,7 @@
 
 Tested on Device: Tecno Pova 5 Pro (LH8n) <br />
 Note By: Kanagawa Yamada <br />
+Last updated: 24/1/2025
 
 Instruction to Install: [HERE](https://t.me/KanagawaLabAnnouncement/91) <br />
 Download: [HERE](https://github.com/mytja/treble_evo/releases) (This note use Normal version) <br />
