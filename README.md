@@ -1,7 +1,7 @@
 ![EvoX GSI Banner](https://github.com/user-attachments/assets/f7a92be6-fc95-4732-8a42-a9bf61e79dbb)
 
-## Evolution X GSI Note [Tested on Tecno Pova 5 Pro (LH8n)]
-### A Note By: Kanagawa Yamada
+Tested on Device: Tecno Pova 5 Pro (LH8n) < br/>
+Note By: Kanagawa Yamada < br/>
 
 Instruction: [HERE](https://t.me/KanagawaLabAnnouncement/91) <br />
 Note Version: 3.0 <br />
